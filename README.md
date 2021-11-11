@@ -1,5 +1,5 @@
 # **ProyectoED**💻
-Este es mi proyecto de GitHub para la asignatura Entornos de Desarrollo.
+▶Este es mi proyecto de GitHub para la asignatura Entornos de Desarrollo.◀
 
 ## **¿Qué es Git?** 🤔
 >Git es una herramienta de control de versiones. Permite controlar el

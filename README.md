@@ -18,4 +18,4 @@ mediante Git.
 
 - **git push :** envia los cambios realizados a *[GitHub](https://github.com/)*.
 
-![imagen](https://dc722jrlp2zu8.cloudfront.net/media/cache/7b/58/7b584c544aa32c8d560bb8f3658a9595.webp)
+![imagen](https://i.stack.imgur.com/hZxlz.png)
